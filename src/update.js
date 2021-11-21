@@ -38,8 +38,6 @@ const WriteReadMe = async () => {
     
 <h1 align="center">Who am I?</h1>
 <p align="center">Hello I'm Mathiscool. I use javascript to code and there is nothing so special about me...</p>
-# Discord - 
-![Discord](https://discord.c99.nl/widget/theme-3/820142398935793685.png)
 ## Hello, I'm Mathiscool <img src="https://raw.githubusercontent.com/testbot-github/testbot-github/master/images/WaveIcon.gif" width="30px">
 \`\`\`js
 const Mathiscool = {
@@ -60,6 +58,9 @@ const Mathiscool = {
 }; //I'm a Epic Object. OwO
 \`\`\`
 <hr>
+
+# Discord - 
+![Discord](https://discord.c99.nl/widget/theme-3/820142398935793685.png)
 
 <h2 align="center"> 🚀 My Stats 🚀</h2>
 <hr>
