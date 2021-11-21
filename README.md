@@ -2,19 +2,19 @@
 I'm **Mathiscool**, An developer from somewhere in the earth. 
   
 <h1 align="center"> ✨ About Me ✨</h1>
-```js 
+<h2>
       const Mathiscool = {
       FavouriteLanguage: "Javascript/Python/html",
-      OpenedIssues: 14,
-      OpenedPullRequests: 10,
-      TotalCommits: 100,
+      OpenedIssues: {{ ISSUES }},
+      OpenedPullRequests: {{ PULL_REQUESTS }},
+      TotalCommits: {{ COMMITS }},
       Stars: 9,
       Repositories: {
-        Created: 6,
-        Contributed: 16
+        Created: {{ REPOSITORIES }},
+        Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
 }; //I'm a Epic Object, UwU
-```
+</h2>
 <hr>
 
 # Discord - 
@@ -35,5 +35,5 @@ I'm **Mathiscool**, An developer from somewhere in the earth.
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=testbot-github&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=testbot-github&theme=tokyonight&hide=batchfile">
     <img src="https://github-profile-trophy.vercel.app/?username=testbot-github&theme=dracula">
 </details>
-<!-- Last updated on Sun Nov 21 2021 14:53:06 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Sun Nov 21 2021 14:54:30 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 21th November 2021 using magic</i> ✨
