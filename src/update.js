@@ -26,19 +26,12 @@ const WriteReadMe = async () => {
   );
 
   //Creating the text what we gonna save on ReadMe file
-  const text = `<!-- You found this secret 👏 -->
-<!--
-    My secret things lol
-    
-    - I code more hours 
-    - I am a gamer too 
-    - I play minecraft, roblox, AMOUNG SUS ;--; :KEK:
-    - I am also a YouTuber XD, make sure to sub ;-;
--->
-    
-<h1 align="center">Who am I?</h1>
-<p align="center">Hello I'm Mathiscool. I use javascript to code and there is nothing so special about me...</p>
-## Hello, I'm Mathiscool <img src="https://raw.githubusercontent.com/testbot-github/testbot-github/master/images/WaveIcon.gif" width="30px">
+  const text = `## Hi there 👋 <img align="right" src="https://avatars.githubusercontent.com/u/82745607&v=4" width="200" />
+I'm **Mathiscool**, An developer from somewhere in the earth. 
+  
+Thanks for visiting my github profile!
+  
+<h1 align="center"> ✨ About Me ✨</h1>
 \`\`\`js
 const Mathiscool = {
     Age: ??,
