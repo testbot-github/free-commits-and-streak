@@ -12,7 +12,7 @@
 <h1 align="center">Who am I?</h1>
 <p align="center">Hello I'm Mathiscool. I use javascript to code and there is nothing so special about me...</p>
 
-## Hello, Im Mathiscool <img src="https://raw.githubusercontent.com/testbot-github/testbot-github/master/images/WaveIcon.gif" width="30px">
+## Hello, I'm Mathiscool <img src="https://raw.githubusercontent.com/testbot-github/testbot-github/master/images/WaveIcon.gif" width="30px">
 
 ```js
 const Mathiscool = {
@@ -53,4 +53,4 @@ Some of my epic coding stats here that i was doing this week
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=testbot-github&theme=tokyonight">
 </details>
 <!-- Last updated on Sun Nov 21 2021 11:54:41 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 21th November 2021 using magic</i> ✨
+<i>Last updated on 20th November 2021 using magic</i> ✨
