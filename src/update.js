@@ -30,7 +30,6 @@ const WriteReadMe = async () => {
 I'm **Mathiscool**, An developer from somewhere in the earth. 
   
 <h1 align="center"> ✨ About Me ✨</h1>
-\`\`\`js
 const Mathiscool = {
     FavouriteLanguage: "Javascript/Python/html",
     OpenedIssues: {{ ISSUES }},
@@ -42,7 +41,6 @@ const Mathiscool = {
        Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
 }; //I'm a Epic Object, UwU
-\`\`\`
 <hr>
 
 # Discord - 
