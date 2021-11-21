@@ -41,7 +41,7 @@ const WriteReadMe = async () => {
 # Discord - 
 ![Discord](https://discord.c99.nl/widget/theme-3/820142398935793685.png)
 ## Hello, I'm Mathiscool <img src="https://raw.githubusercontent.com/testbot-github/testbot-github/master/images/WaveIcon.gif" width="30px">
-\`\`\`js
+```js
 const Mathiscool = {
     Age: ??,
     Description: "${UserData.bio}",
@@ -57,7 +57,7 @@ const Mathiscool = {
     Stars: ${stars},
     FavouriteThings: ["GitHub <3", "Discord", "VS Code", "A Potato Laptop", "Coding..."]
 }; //I'm a Epic Object. UwU
-\`\`\`
+```
 <hr>
 
 ## Stats
