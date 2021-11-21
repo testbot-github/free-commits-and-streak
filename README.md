@@ -18,23 +18,24 @@ const Mathiscool = {
     Age: ??,
     Description: "Just a discord dev...",
     FavouriteLanguage: "Javascript/Python/html",
-    OpenedIssues: 14,
-    OpenedPullRequests: 10,
-    TotalCommits: 78,
+    OpenedIssues: {{ ISSUES }},
+    OpenedPullRequests: {{ PULL_REQUESTS }},
+    TotalCommits: {{ COMMITS }},
+    Stars: 9,
     Repositories: {
-       Created: 6,
-       Contributed: 16
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
     CreatedAt: "Sun Apr 18 2021 05:03:13 GMT+0000 (Coordinated Universal Time)",
     Stars: 9,
     FavouriteThings: ["GitHub <3", "Discord", "VS Code", "A Potato Laptop", "Coding..."]
-}; //I'm a Epic Object. UwU
+}; //I'm a Epic Object. OwO
 ```
 <hr>
 
-## Stats
+<h2 align="center"> 🚀 My Stats 🚀</h2>
 <hr>
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=testbot-github&theme=dracula"></div>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=testbot-github&theme=tokyonight"></div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=testbot-github&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-4-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-10-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-9-blueviolet)
 
@@ -42,9 +43,9 @@ const Mathiscool = {
 <!--END_SECTION:waka-->
 
 <details>
-    <summary><b>GitHub</b> Activity</summary>
+    <summary><b>More GitHub</b> Activity</summary>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=testbot-github&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=testbot-github&theme=tokyonight&hide=batchfile">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=testbot-github&theme=tokyonight">
+    <img src="https://github-profile-trophy.vercel.app/?username=testbot-github&theme=dracula">
 </details>
-<!-- Last updated on Sun Nov 21 2021 14:26:24 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Sun Nov 21 2021 14:36:45 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 21th November 2021 using magic</i> ✨
