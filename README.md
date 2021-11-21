@@ -4,13 +4,13 @@ I'm **Mathiscool**, An developer from somewhere in the earth.
 <h1 align="center"> ✨ About Me ✨</h1>
 const Mathiscool = {
     FavouriteLanguage: "Javascript/Python/html",
-    OpenedIssues: {{ ISSUES }},
-    OpenedPullRequests: {{ PULL_REQUESTS }},
-    TotalCommits: {{ COMMITS }},
+    OpenedIssues: 14,
+    OpenedPullRequests: 10,
+    TotalCommits: 97,
     Stars: 9,
     Repositories: {
-       Created: {{ REPOSITORIES }},
-       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
+       Created: 6,
+       Contributed: 16
     },
 }; //I'm a Epic Object, UwU
 <hr>
