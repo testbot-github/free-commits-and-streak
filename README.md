@@ -7,12 +7,12 @@ const Mathiscool = {
     Age: ??,
     Description: "Just a discord dev...",
     FavouriteLanguage: "Javascript/Python/html",
-    OpenedIssues: {{ ISSUES }},
-    OpenedPullRequests: {{ PULL_REQUESTS }},
-    TotalCommits: {{ COMMITS }},
+    OpenedIssues: 14,
+    OpenedPullRequests: 10,
+    TotalCommits: 91,
     Repositories: {
-       Created: {{ REPOSITORIES }},
-       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
+       Created: 6,
+       Contributed: 16
     },
     CreatedAt: "Sun Apr 18 2021 05:03:13 GMT+0000 (Coordinated Universal Time)",
     Stars: 9,
