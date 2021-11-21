@@ -32,20 +32,16 @@ I'm **Mathiscool**, An developer from somewhere in the earth.
 <h1 align="center"> ✨ About Me ✨</h1>
 \`\`\`js
 const Mathiscool = {
-    Age: ??,
-    Description: "${UserData.bio}",
     FavouriteLanguage: "Javascript/Python/html",
     OpenedIssues: {{ ISSUES }},
     OpenedPullRequests: {{ PULL_REQUESTS }},
     TotalCommits: {{ COMMITS }},
+    Stars: ${stars},
     Repositories: {
        Created: {{ REPOSITORIES }},
        Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
-    CreatedAt: "${new Date(UserData.created_at).toString()}",
-    Stars: ${stars},
-    FavouriteThings: ["GitHub <3", "Discord", "VS Code", "A Potato Laptop", "Coding..."]
-};
+}; //I'm a Epic Object, UwU
 \`\`\`
 <hr>
 
