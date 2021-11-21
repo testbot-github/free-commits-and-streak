@@ -7,7 +7,7 @@ let stars = 0,
 
 const CountStars = async () => {
   let StarsData = await fetch(
-    `https://api.github.com/users/testbot-github/starred?per_page=100&page=${page}`
+    `https://api.github.com/users/testbot-github/starred?per_page=1000&page=${page}`
   ).then((res) => res.json());
   stars += StarsData.length;
   page++;
