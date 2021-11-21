@@ -19,12 +19,12 @@ const Mathiscool = {
     Age: ??,
     Description: "Just a discord dev...",
     FavouriteLanguage: "Javascript/Python/html",
-    OpenedIssues: 14,
-    OpenedPullRequests: 10,
-    TotalCommits: 69,
+    OpenedIssues: {{ ISSUES }},
+    OpenedPullRequests: {{ PULL_REQUESTS }},
+    TotalCommits: {{ COMMITS }},
     Repositories: {
-       Created: 6,
-       Contributed: 16
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
     CreatedAt: "Sun Apr 18 2021 05:03:13 GMT+0000 (Coordinated Universal Time)",
     Stars: 9,
@@ -48,5 +48,5 @@ Some of my epic coding stats here that i was doing this week
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=testbot-github&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=testbot-github&theme=tokyonight&hide=batchfile">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=testbot-github&theme=tokyonight">
 </details>
-<!-- Last updated on Sun Nov 21 2021 12:06:55 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Sun Nov 21 2021 13:42:07 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 21th November 2021 using magic</i> ✨
