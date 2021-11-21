@@ -26,10 +26,8 @@ const WriteReadMe = async () => {
   );
 
   //Creating the text what we gonna save on ReadMe file
-  const text = `## Hi there 👋 <img align="right" src="https://avatars.githubusercontent.com/u/82745607&v=4" width="200" />
+  const text = `## Hi there 👋 <img align="right" src="https://avatars.githubusercontent.com/u/82745607" width="200" />
 I'm **Mathiscool**, An developer from somewhere in the earth. 
-  
-Thanks for visiting my github profile!
   
 <h1 align="center"> ✨ About Me ✨</h1>
 \`\`\`js
@@ -40,7 +38,6 @@ const Mathiscool = {
     OpenedIssues: {{ ISSUES }},
     OpenedPullRequests: {{ PULL_REQUESTS }},
     TotalCommits: {{ COMMITS }},
-    Stars: ${stars},
     Repositories: {
        Created: {{ REPOSITORIES }},
        Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
@@ -48,12 +45,13 @@ const Mathiscool = {
     CreatedAt: "${new Date(UserData.created_at).toString()}",
     Stars: ${stars},
     FavouriteThings: ["GitHub <3", "Discord", "VS Code", "A Potato Laptop", "Coding..."]
-}; //I'm a Epic Object. OwO
+};
 \`\`\`
 <hr>
 
 # Discord - 
 ![Discord](https://discord.c99.nl/widget/theme-3/820142398935793685.png)
+<hr>
 
 <h2 align="center"> 🚀 My Stats 🚀</h2>
 <hr>
