@@ -10,21 +10,19 @@
     
 <h1 align="center">Who am I?</h1>
 <p align="center">Hello I'm Mathiscool. I use javascript to code and there is nothing so special about me...</p>
-# Discord - 
-![Discord](https://discord.c99.nl/widget/theme-3/820142398935793685.png)
 ## Hello, I'm Mathiscool <img src="https://raw.githubusercontent.com/testbot-github/testbot-github/master/images/WaveIcon.gif" width="30px">
 ```js
 const Mathiscool = {
     Age: ??,
     Description: "Just a discord dev...",
     FavouriteLanguage: "Javascript/Python/html",
-    OpenedIssues: 14,
-    OpenedPullRequests: 10,
-    TotalCommits: 82,
+    OpenedIssues: {{ ISSUES }},
+    OpenedPullRequests: {{ PULL_REQUESTS }},
+    TotalCommits: {{ COMMITS }},
     Stars: 9,
     Repositories: {
-       Created: 6,
-       Contributed: 16
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
     CreatedAt: "Sun Apr 18 2021 05:03:13 GMT+0000 (Coordinated Universal Time)",
     Stars: 9,
@@ -32,6 +30,9 @@ const Mathiscool = {
 }; //I'm a Epic Object. OwO
 ```
 <hr>
+
+# Discord - 
+![Discord](https://discord.c99.nl/widget/theme-3/820142398935793685.png)
 
 <h2 align="center"> 🚀 My Stats 🚀</h2>
 <hr>
@@ -47,5 +48,5 @@ const Mathiscool = {
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=testbot-github&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=testbot-github&theme=tokyonight&hide=batchfile">
     <img src="https://github-profile-trophy.vercel.app/?username=testbot-github&theme=dracula">
 </details>
-<!-- Last updated on Sun Nov 21 2021 14:36:45 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Sun Nov 21 2021 14:38:51 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 21th November 2021 using magic</i> ✨
