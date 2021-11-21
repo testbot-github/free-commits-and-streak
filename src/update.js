@@ -41,7 +41,7 @@ const WriteReadMe = async () => {
 # Discord - 
 ![Discord](https://discord.c99.nl/widget/theme-3/820142398935793685.png)
 ## Hello, I'm Mathiscool <img src="https://raw.githubusercontent.com/testbot-github/testbot-github/master/images/WaveIcon.gif" width="30px">
-```js
+\`\`\`js
 const Mathiscool = {
     Age: ??,
     Description: "${UserData.bio}",
@@ -49,6 +49,7 @@ const Mathiscool = {
     OpenedIssues: {{ ISSUES }},
     OpenedPullRequests: {{ PULL_REQUESTS }},
     TotalCommits: {{ COMMITS }},
+    Stars: ${stars},
     Repositories: {
        Created: {{ REPOSITORIES }},
        Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
@@ -56,13 +57,13 @@ const Mathiscool = {
     CreatedAt: "${new Date(UserData.created_at).toString()}",
     Stars: ${stars},
     FavouriteThings: ["GitHub <3", "Discord", "VS Code", "A Potato Laptop", "Coding..."]
-}; //I'm a Epic Object. UwU
-```
+}; //I'm a Epic Object. OwO
+\`\`\`
 <hr>
 
-## Stats
+<h2 align="center"> 🚀 My Stats 🚀</h2>
 <hr>
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=testbot-github&theme=dracula"></div>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=testbot-github&theme=tokyonight"></div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=testbot-github&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-${
     UserData.followers
@@ -74,9 +75,9 @@ const Mathiscool = {
 <!--END_SECTION:waka-->
 
 <details>
-    <summary><b>GitHub</b> Activity</summary>
+    <summary><b>More GitHub</b> Activity</summary>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=testbot-github&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=testbot-github&theme=tokyonight&hide=batchfile">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=testbot-github&theme=tokyonight">
+    <img src="https://github-profile-trophy.vercel.app/?username=testbot-github&theme=dracula">
 </details>
 <!-- Last updated on ${date.toString()} ;-;-->
 <i>Last updated on ${date.getDate()}${
