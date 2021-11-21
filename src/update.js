@@ -38,10 +38,9 @@ const WriteReadMe = async () => {
     
 <h1 align="center">Who am I?</h1>
 <p align="center">Hello I'm Mathiscool. I use javascript to code and there is nothing so special about me...</p>
-
-## Hello, Im Mathiscool <img src="https://raw.githubusercontent.com/testbot-github/testbot-github/master/images/WaveIcon.gif" width="30px">
 # Discord - 
 ![Discord](https://discord.c99.nl/widget/theme-3/820142398935793685.png)
+## Hello, I'm Mathiscool <img src="https://raw.githubusercontent.com/testbot-github/testbot-github/master/images/WaveIcon.gif" width="30px">
 \`\`\`js
 const Mathiscool = {
     Age: ??,
@@ -71,7 +70,6 @@ const Mathiscool = {
     UserData.following
   }-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-${stars}-blueviolet)
 
-Some of my epic coding stats here that i was doing this week 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
