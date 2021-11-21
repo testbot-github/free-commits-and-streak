@@ -12,22 +12,22 @@
 <h1 align="center">Who am I?</h1>
 <p align="center">Hello I'm Mathiscool. I use javascript to code and there is nothing so special about me...</p>
 
-## Hello, I'm Mathiscool <img src="https://raw.githubusercontent.com/testbot-github/testbot-github/master/images/WaveIcon.gif" width="30px">
+## Hello, Im Mathiscool <img src="https://raw.githubusercontent.com/testbot-github/testbot-github/master/images/WaveIcon.gif" width="30px">
 
 ```js
 const Mathiscool = {
     Age: ??,
     Description: "Just a discord dev...",
     FavouriteLanguage: "Javascript/Python/html",
-    OpenedIssues: 14,
-    OpenedPullRequests: 10,
-    TotalCommits: 63,
+    OpenedIssues: {{ ISSUES }},
+    OpenedPullRequests: {{ PULL_REQUESTS }},
+    TotalCommits: {{ COMMITS }},
     Repositories: {
-       Created: 6,
-       Contributed: 16
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
     CreatedAt: "Sun Apr 18 2021 05:03:13 GMT+0000 (Coordinated Universal Time)",
-    Stars: 7,
+    Stars: 9,
     FavouriteThings: ["GitHub <3", "GitHub Copilot", "VS Code", "A Potato PC with 50kbps internet", "Docker"]
 }; //I'm a Epic Object. UwU
 ```
@@ -41,7 +41,7 @@ const Mathiscool = {
 <hr>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=testbot-github&theme=dracula"></div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=testbot-github&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-5-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-10-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-7-blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=testbot-github&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-4-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-10-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-9-blueviolet)
 
 Some of my epic coding stats here that i was doing this week 
 <!--START_SECTION:waka-->
@@ -52,5 +52,5 @@ Some of my epic coding stats here that i was doing this week
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=testbot-github&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=testbot-github&theme=tokyonight&hide=batchfile">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=testbot-github&theme=tokyonight">
 </details>
-<!-- Last updated on Sun Nov 21 2021 11:54:41 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 20th November 2021 using magic</i> ✨
+<!-- Last updated on Sun Nov 21 2021 12:02:50 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 21th November 2021 using magic</i> ✨
