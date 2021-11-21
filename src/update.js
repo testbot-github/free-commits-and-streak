@@ -28,21 +28,6 @@ const WriteReadMe = async () => {
   //Creating the text what we gonna save on ReadMe file
   const text = `## Hi there 👋 <img align="right" src="https://avatars.githubusercontent.com/u/82745607" width="200" />
 I'm **Mathiscool**, An developer from somewhere in the earth. 
-  
-<h1 align="center"> ✨ About Me ✨</h1>
-<h2>
-      const Mathiscool = {
-      FavouriteLanguage: "Javascript/Python/html",
-      OpenedIssues: {{ ISSUES }},
-      OpenedPullRequests: {{ PULL_REQUESTS }},
-      TotalCommits: {{ COMMITS }},
-      Stars: ${stars},
-      Repositories: {
-        Created: {{ REPOSITORIES }},
-        Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
-    },
-}; //I'm a Epic Object, UwU
-</h2>
 <hr>
 
 # Discord - 
