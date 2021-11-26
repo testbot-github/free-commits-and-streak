@@ -10,7 +10,7 @@ I'm **Mathiscool**, An developer from somewhere in the earth.
 <hr>
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=testbot-github&theme=tokyonight"></div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=testbot-github&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-4-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-10-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-9-blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=testbot-github&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-4-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-10-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-10-blueviolet)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -20,5 +20,5 @@ I'm **Mathiscool**, An developer from somewhere in the earth.
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=testbot-github&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=testbot-github&theme=tokyonight&hide=batchfile">
     <img src="https://github-profile-trophy.vercel.app/?username=testbot-github&theme=dracula">
 </details>
-<!-- Last updated on Thu Nov 25 2021 05:07:27 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 25th November 2021 using magic</i> ✨
+<!-- Last updated on Fri Nov 26 2021 05:07:19 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 26th November 2021 using magic</i> ✨
