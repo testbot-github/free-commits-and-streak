@@ -6,6 +6,20 @@ I'm **Mathiscool**, An developer from somewhere in the earth.
 ![Discord](https://discord.c99.nl/widget/theme-3/820142398935793685.png)
 <hr>
 
+```js
+const Mathiscool = {
+    FavouriteLanguage: "Javascript/Python",
+    OpenedIssues: {{ ISSUES }},
+    OpenedPullRequests: {{ PULL_REQUESTS }},
+    TotalCommits: {{ COMMITS }},
+    Stars: 10,
+    Repositories: {
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
+    },
+}; //I'm a Epic Object, UwU
+```
+
 <h2 align="center"> 🚀 My Stats 🚀</h2>
 <hr>
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=testbot-github&theme=tokyonight"></div>
@@ -20,5 +34,5 @@ I'm **Mathiscool**, An developer from somewhere in the earth.
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=testbot-github&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=testbot-github&theme=tokyonight&hide=batchfile">
     <img src="https://github-profile-trophy.vercel.app/?username=testbot-github&theme=dracula">
 </details>
-<!-- Last updated on Fri Nov 26 2021 05:07:19 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 26th November 2021 using magic</i> ✨
+<!-- Last updated on Sat Nov 27 2021 01:45:17 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 27th November 2021 using magic</i> ✨
