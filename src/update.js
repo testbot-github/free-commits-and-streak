@@ -34,6 +34,20 @@ I'm **Mathiscool**, An developer from somewhere in the earth.
 ![Discord](https://discord.c99.nl/widget/theme-3/820142398935793685.png)
 <hr>
 
+\`\`\`js
+const Mathiscool = {
+    FavouriteLanguage: "Javascript/Python",
+    OpenedIssues: {{ ISSUES }},
+    OpenedPullRequests: {{ PULL_REQUESTS }},
+    TotalCommits: {{ COMMITS }},
+    Stars: ${stars},
+    Repositories: {
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
+    },
+}; //I'm a Epic Object, UwU
+\`\`\`
+
 <h2 align="center"> 🚀 My Stats 🚀</h2>
 <hr>
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=testbot-github&theme=tokyonight"></div>
