@@ -9,13 +9,13 @@ I'm **Mathiscool**, An developer from somewhere in the earth.
 ```js
 const Mathiscool = {
     FavouriteLanguage: "Javascript/Python",
-    OpenedIssues: 15,
-    OpenedPullRequests: 11,
-    TotalCommits: 183,
-    Stars: 11,
+    OpenedIssues: {{ ISSUES }},
+    OpenedPullRequests: {{ PULL_REQUESTS }},
+    TotalCommits: {{ COMMITS }},
+    Stars: 12,
     Repositories: {
-       Created: 7,
-       Contributed: 17
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
 }; //I'm a Epic Object, UwU
 ```
@@ -24,7 +24,7 @@ const Mathiscool = {
 <hr>
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=testbot-github&theme=tokyonight"></div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=testbot-github&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-4-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-10-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-11-blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=testbot-github&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-4-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-10-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-12-blueviolet)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -34,5 +34,5 @@ const Mathiscool = {
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=testbot-github&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=testbot-github&theme=tokyonight&hide=batchfile">
     <img src="https://github-profile-trophy.vercel.app/?username=testbot-github&theme=dracula">
 </details>
-<!-- Last updated on Thu Dec 02 2021 05:07:35 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 2nd December 2021 using magic</i> ✨
+<!-- Last updated on Fri Dec 03 2021 05:07:44 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 3rd December 2021 using magic</i> ✨
