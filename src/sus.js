@@ -43,7 +43,7 @@ const Mathiscool = {
        Created: 7,
        Contributed: 17
     },
-}; //I'm a Epic Object, UwU
+}; //I'm a Epik Object, OwO
 \`\`\`
 <h2 align="center"> 🚀 My Stats 🚀</h2>
 <hr>
