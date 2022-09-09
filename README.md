@@ -12,7 +12,7 @@ const Mathiscool = {
     OpenedIssues: {{ ISSUES }},
     OpenedPullRequests: {{ PULL_REQUESTS }},
     TotalCommits: {{ COMMITS }},
-    Stars: 25,
+    Stars: 42,
     Repositories: {
        Created: {{ REPOSITORIES }},
        Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
@@ -24,7 +24,7 @@ const Mathiscool = {
 <hr>
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=testbot-github&theme=tokyonight"></div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=testbot-github&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-6-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-11-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-25-blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=testbot-github&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-6-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-12-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-42-blueviolet)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -34,5 +34,5 @@ const Mathiscool = {
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=testbot-github&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=testbot-github&theme=tokyonight&hide=batchfile">
     <img src="https://github-profile-trophy.vercel.app/?username=testbot-github&theme=dracula">
 </details>
-<!-- Last updated on Thu Sep 08 2022 05:55:13 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 8th September 2022 using magic</i> ✨
+<!-- Last updated on Fri Sep 09 2022 05:50:36 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 9th September 2022 using magic</i> ✨
