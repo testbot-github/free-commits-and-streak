@@ -9,13 +9,13 @@ I'm **Mathiscool**, An developer from somewhere in the earth.
 ```js
 const Mathiscool = {
     FavouriteLanguage: "Javascript/Python",
-    OpenedIssues: 22,
-    OpenedPullRequests: 14,
-    TotalCommits: 907,
+    OpenedIssues: {{ ISSUES }},
+    OpenedPullRequests: {{ PULL_REQUESTS }},
+    TotalCommits: {{ COMMITS }},
     Stars: 41,
     Repositories: {
-       Created: 19,
-       Contributed: 9
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
 }; //I'm a Epic Object, UwU
 ```
@@ -34,5 +34,5 @@ const Mathiscool = {
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=testbot-github&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=testbot-github&theme=tokyonight&hide=batchfile">
     <img src="https://github-profile-trophy.vercel.app/?username=testbot-github&theme=dracula">
 </details>
-<!-- Last updated on Mon Jan 09 2023 05:08:29 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 9th January 2023 using magic</i> ✨
+<!-- Last updated on Tue Jan 10 2023 05:08:03 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 10th January 2023 using magic</i> ✨
