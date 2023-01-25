@@ -9,13 +9,13 @@ I'm **Mathiscool**, An developer from somewhere in the earth.
 ```js
 const Mathiscool = {
     FavouriteLanguage: "Javascript/Python",
-    OpenedIssues: {{ ISSUES }},
-    OpenedPullRequests: {{ PULL_REQUESTS }},
-    TotalCommits: {{ COMMITS }},
+    OpenedIssues: 22,
+    OpenedPullRequests: 14,
+    TotalCommits: 946,
     Stars: NaN,
     Repositories: {
-       Created: {{ REPOSITORIES }},
-       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
+       Created: 20,
+       Contributed: 5
     },
 }; //I'm a Epic Object, UwU
 ```
